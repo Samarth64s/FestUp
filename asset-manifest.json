@@ -1,19 +1,36 @@
 {
   "files": {
     "main.css": "/FestUp/static/css/main.4a40520e.css",
-    "main.js": "/FestUp/static/js/main.38aba628.js",
+    "main.js": "/FestUp/static/js/main.2efe0ba1.js",
     "static/js/453.477f75b9.chunk.js": "/FestUp/static/js/453.477f75b9.chunk.js",
+    "static/media/Rectangle 7.png": "/FestUp/static/media/Rectangle 7.cdfb5ebcc287013b00ea.png",
+    "static/media/Rectangle 6.png": "/FestUp/static/media/Rectangle 6.767f923127691ccd4dc2.png",
+    "static/media/Rectangle 8.png": "/FestUp/static/media/Rectangle 8.fafdfec50fc939695889.png",
+    "static/media/Rectangle 67.png": "/FestUp/static/media/Rectangle 67.9a4be1b9462d9e2ace42.png",
+    "static/media/Rectangle 5.png": "/FestUp/static/media/Rectangle 5.02bfaef370e9909ab3b1.png",
+    "static/media/Rectangle 10.png": "/FestUp/static/media/Rectangle 10.7e7870f9f071b9d48c6c.png",
+    "static/media/Rectangle 9.png": "/FestUp/static/media/Rectangle 9.f4d0a17c4c8c70cba290.png",
+    "static/media/Rectangle 12.png": "/FestUp/static/media/Rectangle 12.44b3dcdfd89cb4bce70d.png",
+    "static/media/Rectangle 11.png": "/FestUp/static/media/Rectangle 11.d75ce11b45709b65fb15.png",
+    "static/media/Rectangle 41.png": "/FestUp/static/media/Rectangle 41.1832d8d386fdbdfd1ab6.png",
+    "static/media/Ellipse 38.png": "/FestUp/static/media/Ellipse 38.2b4e868cadc1adb1e334.png",
+    "static/media/Ellipse 37.png": "/FestUp/static/media/Ellipse 37.dd6b4a30247b0bc31cbc.png",
+    "static/media/Ellipse 35.png": "/FestUp/static/media/Ellipse 35.f83d6845cc8eaea1b80f.png",
+    "static/media/Ellipse 36.png": "/FestUp/static/media/Ellipse 36.7f7c8e9ae7a76e76f803.png",
+    "static/media/theater.png": "/FestUp/static/media/theater.cceb73f1d807f2c9b089.png",
+    "static/media/fireworks.png": "/FestUp/static/media/fireworks.94373887d4a9f2b3402e.png",
+    "static/media/workshop.jpg": "/FestUp/static/media/workshop.e08973c88a03d1247610.jpg",
     "static/media/slick.svg": "/FestUp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/FestUp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/FestUp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/FestUp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FestUp/index.html",
     "main.4a40520e.css.map": "/FestUp/static/css/main.4a40520e.css.map",
-    "main.38aba628.js.map": "/FestUp/static/js/main.38aba628.js.map",
+    "main.2efe0ba1.js.map": "/FestUp/static/js/main.2efe0ba1.js.map",
     "453.477f75b9.chunk.js.map": "/FestUp/static/js/453.477f75b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a40520e.css",
-    "static/js/main.38aba628.js"
+    "static/js/main.2efe0ba1.js"
   ]
 }
