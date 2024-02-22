@@ -23,7 +23,7 @@ const SubscribeToOurNewsLetter = () => {
         <input
           value={submitEmail}
           onChange={(e) => setSubmitEmail(e.target.value)}
-          className="w-full sm:w-72 h-10 bg-slate-900 p-2 sm:p-5 rounded-lg mb-2 sm:mb-0"
+          className="w-full border-2 sm:w-72 h-10 bg-slate-900 p-2 sm:p-5 rounded-lg mb-2 sm:mb-0"
           placeholder="Enter Email"
         />
         <button

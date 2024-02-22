@@ -22,22 +22,17 @@ const ImageSlider = () => {
     ],
   };
   const images = [
-    "Rectangle 6.png",
-    "Rectangle 5.png",
-    "Rectangle 7.png",
-    "Rectangle 8.png",
-    // Add more image paths as needed
+    require("../../assets/images/Rectangle 6.png"),
+    require("../../assets/images/Rectangle 5.png"),
+    require("../../assets/images/Rectangle 7.png"),
+    require("../../assets/images/Rectangle 8.png"),
   ];
   return (
     <Slider {...settings} className="flex">
       {images.map((image, index) => {
         return (
           <div key={index} className="w-full">
-            <img
-              className="h-56 p-1 w-full"
-              src={process.env.PUBLIC_URL + `/images/${image}`}
-              alt="images"
-            />
+            <img className="h-56 p-1 w-full" src={image} alt="images" />
           </div>
         );
       })}
